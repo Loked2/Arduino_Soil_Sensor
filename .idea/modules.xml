@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Arduino Soil Sensor.iml" filepath="$PROJECT_DIR$/.idea/Arduino Soil Sensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Arduino_Soil_Sensor.iml" filepath="$PROJECT_DIR$/.idea/Arduino_Soil_Sensor.iml" />
     </modules>
   </component>
 </project>
